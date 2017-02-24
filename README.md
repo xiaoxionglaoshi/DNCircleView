@@ -1,7 +1,7 @@
 # CircleProgress
 简单实用的圆形进度条，swift版和OC版
 
-![snapshot](https://github.com/626600815/CircleProgress/blob/master/80295E94-EB6F-4775-8767-115A9EE5D1D9.png)
+![snapshot](https://github.com/xiaoxionglaoshi/DNCircleView/blob/master/80295E94-EB6F-4775-8767-115A9EE5D1D9.png?raw=true)
 
 
 ###使用说明
